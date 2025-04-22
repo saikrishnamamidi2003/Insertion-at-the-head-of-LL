@@ -3,6 +3,7 @@ class ListNode:
         self.val = val
         self.next = next
 
+
 class Solution:
     def insertAtHead(self, head, val):
         #implement your code
